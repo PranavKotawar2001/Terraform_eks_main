@@ -5,12 +5,12 @@ variable "region" {
 
 # access key
 variable "access_key" {
-  default = "AKIAQ6S5EFS2WNZFKUVP"
+  default = ""
 }
 
 # secret key
 variable "secret_key" {
-  default = "2TEwjOlNRNAoFpkCSBc0c4ah9shgztsFncsj/jP"
+  default = ""
 }
 
 # CIDR block for VPC
